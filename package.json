@@ -2,7 +2,7 @@
   "name": "readme-generator",
   "version": "1.0.0",
   "description": "a simple program which generates a readme file",
-  "main": "index.js",
+  "main": "generate.js",
   "scripts": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
   "author": "Griffin Paier",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.5.0"
+    "inquirer": "^8.0.0"
   },
   "bugs": {
     "url": "https://github.com/gmpaier/readme-generator/issues"
